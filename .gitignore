@@ -2,3 +2,5 @@
 2008.csv.bz2
 **/__pycache__
 **/.idea
+howpop_train.csv
+howpop_test.csv
