@@ -1,2 +1,4 @@
-*/.ipynb_checkpoints
+**/.ipynb_checkpoints
 2008.csv.bz2
+**/__pycache__
+**/.idea
