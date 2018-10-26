@@ -4,3 +4,5 @@
 **/.idea
 howpop_train.csv
 howpop_test.csv
+stackoverflow_sample_125k.tsv
+top10_tags.tsv
