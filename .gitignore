@@ -6,3 +6,8 @@ howpop_train.csv
 howpop_test.csv
 stackoverflow_sample_125k.tsv
 top10_tags.tsv
+baseline_1.csv
+baseline_2.csv
+alice_site_dic.pkl
+alice_test.csv
+alice_train.csv
